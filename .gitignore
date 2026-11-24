@@ -1,0 +1,14 @@
+# Dataset
+Dataset.csv
+data/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
